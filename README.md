@@ -1,7 +1,7 @@
 # Exercice d'accessibilité des contenus
 
 ## Équipe
-- Prénom nom
+- Perle 
 - Prénom nom
 
 ## Objectifs
@@ -31,25 +31,30 @@ Pour vous guider dans le choix des balises, des attributs et des valeurs d'attri
 Pour chacune des pages ci-dessous, les textes alternatifs sont-ils adéquats ?Commenter votre observation. Pourrait-on faire mieux ? Donnez un exemple de ce que vous proposeriez.
 
 - https://www.sail.ca/fr/chaussures/junior/multi-sport-et-plein-air 
------
------
------
-[capture-écran]()
+Il manque de textes alternatifs sur les images.
+Ils sont présents sur certains éléments principaux mais pas tous.
+Les descriptions sont vagues
+[capture-écran](sail.png)
+----
+
 - https://amzn.to/2NnbKPN 
------
------
------
-[capture-écran]()
+Il y a des textes alternatifs très descriptifs pour toutes les images.
+Ainsi que pour les boutons et les navigations principales( etoiles de ratings)
+Il n'y en pas pour les prix et certains liens.
+[capture-écran](amazon.png)
+----
+
 - https://www.lesoleil.com/  
------
------
------
-[capture-écran]()
+Il y a des alts pour toutes les images et les liens de navigation.
+Les textes alternatifs equvalent aux titres sous les images, il faudrait peut-être qu'ils décrivent a la place le contenu de l'image.
+[capture-écran](lesoleil.png)
+----
+
 - https://www.rad.ca/  
------
------
------
-[capture-écran]()
+Il y a bien des aria-label pour les groupes d'articles et les articles individuels.
+Ils sont simples et descriptifs.
+[capture-écran](rad.png)
+----
 
 Astuce  
 Parfois, l’affichage des alt ne donnent pas un résultat facile à lire… lorsque cela se produit, faites un clic droit de la souris et choisir inspecter pour positionner l’inspecteur de DOM sur le HTML de l’image.
