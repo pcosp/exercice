@@ -87,19 +87,18 @@ __Tutoriel sur les formulaires du w3c__
 
 Réponse : 
 
-----
-----
-----
+La hiérarchie des titres est respectée.
+Peut-être trop de h2? Sauf si c'est un menu ou une liste d'articles/ navigation, peut-être rajouter des h3,h4 etc..
+Mais vu que ça à l'air d'être un menu de navigation les règles sont biens respectées.
 
 __L’affaire Savtchenko__ 
 [Article](images/3-table-des-matieres_h1-h6/3-1/article-savtchenko.pdf)  
 [Table des matières (outline)](images/3-table-des-matieres_h1-h6/3-1/article-savtchenko-outline.png) 
   
 Réponse : 
+Il manque un h1, on ne peut donc pas utiliser de h2 et h3 comme c'est fait sur le site.
+Le deuxième h1 ne devrait pas être un h1, compte tenu que il n'y a pas de "premier" h1.
 
-----
-----
-----
 
 
 #### 3.2 S'exercer à bien structurer
